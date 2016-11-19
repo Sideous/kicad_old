@@ -1,0 +1,246 @@
+PCBNEW-LibModule-V1  Sat 05 Nov 2016 03:40:26 PM PDT
+# encoding utf-8
+Units mm
+$INDEX
+MAXM17503
+$EndINDEX
+$MODULE MAXM17503
+Po 0 0 0 15 581D5E22 00000000 ~~
+Li MAXM17503
+Sc 0
+AR 
+Op 0 0 0
+T0 5.08 -10.16 1 1 0 0.15 N I 21 N "MAXM17503"
+T1 -3.81 -10.16 1 1 0 0.15 N V 21 N "VAL**"
+DS -2.794 -8.255 -2.413 -8.636 0.15 21
+DS -2.413 -8.636 -2.794 -8.509 0.15 21
+DS -2.794 -8.636 12.954 -8.636 0.15 21
+DS 12.954 -8.636 12.954 1.016 0.15 21
+DS 12.954 1.016 -2.794 1.016 0.15 21
+DS -2.794 1.016 -2.794 -8.636 0.15 21
+$PAD
+Sh "8" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.61 0
+$EndPAD
+$PAD
+Sh "9" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.66 0
+$EndPAD
+$PAD
+Sh "10" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 1.93 0
+$EndPAD
+$PAD
+Sh "12" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.01 0
+$EndPAD
+$PAD
+Sh "13" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.28 0
+$EndPAD
+$PAD
+Sh "14" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.55 0
+$EndPAD
+$PAD
+Sh "15" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.82 0
+$EndPAD
+$PAD
+Sh "16" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 0
+$EndPAD
+$PAD
+Sh "7" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 0
+$EndPAD
+$PAD
+Sh "6" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -1.27
+$EndPAD
+$PAD
+Sh "5" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -2.54
+$EndPAD
+$PAD
+Sh "4" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -3.81
+$EndPAD
+$PAD
+Sh "3" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -5.08
+$EndPAD
+$PAD
+Sh "2" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -6.35
+$EndPAD
+$PAD
+Sh "1" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -1.88 -7.62
+$EndPAD
+$PAD
+Sh "29" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -0.61 -7.62
+$EndPAD
+$PAD
+Sh "28" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.66 -7.62
+$EndPAD
+$PAD
+Sh "25" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.01 -7.62
+$EndPAD
+$PAD
+Sh "24" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.28 -7.62
+$EndPAD
+$PAD
+Sh "23" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 9.55 -7.62
+$EndPAD
+$PAD
+Sh "22" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 10.82 -7.62
+$EndPAD
+$PAD
+Sh "21" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 -7.62
+$EndPAD
+$PAD
+Sh "20" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 -6.35
+$EndPAD
+$PAD
+Sh "19" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 -5.08
+$EndPAD
+$PAD
+Sh "18" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 -2.54
+$EndPAD
+$PAD
+Sh "17" R 0.7 0.7 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 12.09 -1.27
+$EndPAD
+$PAD
+Sh "27" R 1.92 1.92 0 0 0
+Dr 0 0 0.61
+At SMD N 00888000
+Ne 0 ""
+Po 2.54 -7.62
+$EndPAD
+$PAD
+Sh "26" R 1.92 1.92 0 0 0
+Dr 0 0 0.61
+At SMD N 00888000
+Ne 0 ""
+Po 5.08 -7.62
+$EndPAD
+$PAD
+Sh "EP1" R 3.19 3.19 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 0.66 -3.81
+$EndPAD
+$PAD
+Sh "EP2" R 4.46 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 -5.72
+$EndPAD
+$PAD
+Sh "EP3" R 4.46 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.89 -1.9
+$EndPAD
+$PAD
+Sh "11" R 3.19 1.92 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 4.47 -0.61
+$EndPAD
+$EndMODULE MAXM17503
+$EndLIBRARY

@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (22-Jun-2014 BZR 4027)-stable date = Sat 12 Nov 2016 04:50:50 PM PST
+
+BeginCmp
+TimeStamp = /5515D395/5822AB25;
+Reference = C1;
+ValeurCmp = 22uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/58266640;
+Reference = C2;
+ValeurCmp = 2.2uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823FC0B;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/582665CB;
+Reference = C4;
+ValeurCmp = 2.2uF;
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5516AE26;
+Reference = J2;
+ValeurCmp = RPi_GPIO;
+IdModule  = 3m 2x20 socket;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5822AD19;
+Reference = P1;
+ValeurCmp = CONN_20X2;
+IdModule  = 3m 2x20 socket;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823FB50;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5822A805;
+Reference = R1;
+ValeurCmp = 191K;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5822A983;
+Reference = R2;
+ValeurCmp = 42.2K;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823F969;
+Reference = R3;
+ValeurCmp = 1K;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823F7BE;
+Reference = R4;
+ValeurCmp = 3.3M;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823F7AF;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5823F943;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = R6;
+EndCmp
+
+BeginCmp
+TimeStamp = /5515D395/5822A541;
+Reference = U1;
+ValeurCmp = MAXM17503;
+IdModule  = MAXM17503;
+EndCmp
+
+EndListe
